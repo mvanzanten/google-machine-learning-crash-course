@@ -1,4 +1,4 @@
-# Google Machine Learning Labs
+# Google Machine Learning Labs (NVIDIA CUDA)
 
 This repository contains hands-on machine learning exercises from the [Google Machine Learning Crash Course](https://developers.google.com/machine-learning). These interactive Jupyter notebooks provide practical experience with fundamental ML concepts.
 
