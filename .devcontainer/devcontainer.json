@@ -5,7 +5,8 @@
   },
   "runArgs": [
     "--gpus=all",
-    "--shm-size=2gb" 
+    "--shm-size=32gb",
+    "--memory=32gb"
   ],
   "extensions": [
     "ms-python.python",
