@@ -48,7 +48,6 @@ Build a binary classifier to distinguish between two species of Turkish rice. Th
 
 - [Google Machine Learning Crash Course](https://developers.google.com/machine-learning)
 - [Jupyter Notebook Documentation](https://jupyter.org/)
-- Rice Dataset Citation: Cinar, I. and Koklu, M., (2019). "Classification of Rice Varieties Using Artificial Intelligence Methods." *International Journal of Intelligent Systems and Applications in Engineering*, 7(3), 188-194.
 
 ## License
 These exercises are part of Google's ML Crash Course educational materials.
